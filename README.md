@@ -1,5 +1,5 @@
 # KPMG-Data-Analytics-Consulting-Virtual-Experience-Program
-Summary of Task 1: Data Quality Assessment
+Task 1: Data Quality Assessment
 
 Sprocket Central Pty Ltd, a medium-sized bikes and cycling accessories organization, seeks help in analyzing their customer and transactions data to optimize their marketing strategy. The organization provided three datasets: Customer Demographic, Customer Addresses, and Transactions data for the past three months. As part of the preliminary data exploration, the task is to assess the data quality, identify issues, and propose strategies to mitigate those issues.
 
